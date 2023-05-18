@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently intern at Geekster
 
-- 🌱 I’m currently learning **React and JavaScript /Web development course**
+- 🌱 I’m currently learning **React and JavaScript / Web development course**
 
 - 💬 Ask me about **React , Javascript Basic Data structure and algorithms**
 
