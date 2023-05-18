@@ -2,7 +2,7 @@
 <h1 align="center">Hey! 👋, I'm Uday Chauhan</h1>
 <h3 align="center">I am Uday, a React.js and JavaScript Developer with expertise in   Data Structures and Algorithms. I honed my skills as a full-stack developer intern at Geekster, where I worked on multiple web development projects. Currently. I am passionate about leveraging my knowledge and experience to develop innovative solutions and deliver exceptional results.</h3>
 
-<img align="right" src="https://image.lexica.art/full_jpg/8f5ed6e0-b3a8-49d6-9d2f-19355a156e6c" alt="uday chauhan/" height="230" width="340"> 
+<img align="right" src="https://image.lexica.art/full_jpg/8f5ed6e0-b3a8-49d6-9d2f-19355a156e6c" alt="uday chauhan/" height="200" width="300"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmesohit&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesohit" /> </p>
 
