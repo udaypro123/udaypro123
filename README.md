@@ -1,6 +1,13 @@
 ![logo](https://image.lexica.art/full_jpg/9b4bd719-b26d-4916-b497-416beb8a54a6)
 <h1 align="center">Hey! 👋, I'm Uday Chauhan</h1>
-<h3 align="center">I am Uday Chauhan, Passionate front-end developer with 1 year of hands-on experience building responsive, user-centric web applications. Currently diving into full-stack development to expand my skills and tackle end-to-end solutions. Excited about crafting clean, efficient code and continuous learning in the ever-evolving tech landscape</h3>
+<h3 align="center">Uday Chauhan
+Software Development Engineer | MERN Stack
+
+Software Development Engineer with 2+ years of experience, progressing from frontend development to owning full-stack systems using the MERN stack. Proven ability to design and build scalable, high-performance web applications with a strong focus on clean architecture and efficient code.
+
+Hands-on experience across React, Node.js, Express, and MongoDB, with a deep understanding of building end-to-end features, optimizing performance, and improving user experience at scale. Strong problem-solving skills with a solid foundation in data structures and system design.
+
+Actively working on building production-grade systems, exploring scalability patterns, and writing maintainable code that aligns with industry best practices</h3>
 
 <img align="right" src="https://image.lexica.art/full_jpg/8f5ed6e0-b3a8-49d6-9d2f-19355a156e6c" alt="uday chauhan/" height="200" width="300"> 
 
