@@ -19,11 +19,13 @@ Experienced in leveraging GitHub Copilot, Claude AI, and Generative AI tools to 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmesohit&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesohit" /> </p>
 
-- 🔭 I’m currently with Edumatica.io (mu-zero technologies pvt. ltd)
+- 🔭 Currently working as a Software Developer at Edumatica.io (Mu-Zero Technologies Pvt. Ltd.)
 
-- 🌱 I’m currently learning **React and JavaScript / Web development course**
+- 🌱 Exploring scalable full-stack architecture, system design, and AI-assisted development workflows
 
-- 💬 Ask me about **React , Javascript, Data structure and algorithms(JavaScript)**
+- 💬 Ask me about React, JavaScript, TypeScript, MERN Stack, System Design, and Data Structures & Algorithms
+
+- 🤖 AI-Driven Development: Using GitHub Copilot, Claude AI, and Generative AI tools to improve development speed, debugging, and code quality.
 
 - 📫 How to reach me **7827443304 or chauhanuday842@gmail.com**
 
