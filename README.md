@@ -15,7 +15,7 @@ Actively working on building production-grade systems, exploring scalability pat
 Experienced in leveraging GitHub Copilot, Claude AI, and Generative AI tools to accelerate development, improve code quality, optimize debugging, and enhance engineering productivity.
 </p>
 <br>
-<img align="right" src="https://image.lexica.art/full_jpg/8f5ed6e0-b3a8-49d6-9d2f-19355a156e6c" alt="uday chauhan/" height="200" width="300"> 
+<img align="right" src="https://i.pinimg.com/736x/3a/7e/d1/3a7ed11847fd5ec8b949ac323d93a3a4.jpg" alt="uday chauhan/" height="200" width="300"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmesohit&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesohit" /> </p>
 
